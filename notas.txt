@@ -1,0 +1,25 @@
+Routing con React Router Dom
+componentes:
+        createBrowserRouter,
+        RouterProvider
+        Layout
+        Outlet
+        Link
+        Form
+        Redirect
+Hook:
+        useLocation
+        useLoaderData
+        useNavigate
+        useActionData
+        useRouteError
+
+Funcion:
+        Loader
+
+json-server
+
+Vite
+Tailwindcss
+
+//Error Boundaries
